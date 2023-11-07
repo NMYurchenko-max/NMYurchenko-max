@@ -1,5 +1,5 @@
 # @NMYurchenko-max
-- 👋 # Hi, my name is Nina.
+- 👋   Hi, my name is Nina.
 - 👀  I am highly interested in Python programming.
 - 🌱  Currently, I am in the process of learning the fundamentals of programming.
 - 💞️  I am seeking collaboration to enhance my learning and rectify any mistakes I make.
