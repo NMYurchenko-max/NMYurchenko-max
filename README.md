@@ -3,10 +3,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdwcnFlMHFvc3luNnRkdzhudTFnY2h6dmt6eWl1enQ5N3Q4eDc2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="650" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&lines=Hi+everyone!++I%E2%80%99m+Nina+Yurchenko+;Fullstack-developer+Ui/UX designer+from+Moscow" alt="Typing SVG" /></a>
-</div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=650&lines=Hi+everyone!+I'm+Nina+Yurchenko;Fullstack+developer+from+Moscow" alt="Typing SVG" />
+  </a>
+</p>
 
 ==========================================
 
