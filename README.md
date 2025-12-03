@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=650&lines=Hi+everyone!+I'm+Nina+Yurchenko;Fullstack+developer+from+Moscow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=650&lines=Hi+everyone!+I'm+Nina+Yurchenko;Fullstack+developer+UI%2FUX+designer+from+Moscow" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ I really enjoy my new profession and want to grow and improve my skills.
 * 👥 I’m open to collaboration on modern interfaces and web applications
 * 💬 My background as a PhD in Economics can be useful for business analysis in development
 * ✉️ You can contact me at [NMYurchenko@outlook.com](mailto:NMYurchenko@outlook.com)
-* 🖥️ See my portfolio (in progress): **N. Yurchenko – portfolio**. [Main screen design in Figma](https://www.figma.com/site/8NjDIWUbey6hLIQ7616Z0i/MyPortfolio?node-id=0-3&t=2MOYOg1tNFTc3UDI-4)
+* 🖥️ See my portfolio (in progress): [PortfolioNMYurchenko](http://github.com/NMYurchenko-max/PortfolioNMYurchenko.git)
 
 ### Социальные сети
 
@@ -115,4 +115,4 @@ Design and create user‑friendly, modern interfaces and web applications – fr
 * [Corporate messenger “ECHOROOM Chat”](https://nmyurchenko-max.github.io/ws-chat-frontend/),  
   repo: [ws-chat-frontend](https://github.com/NMYurchenko-max/ws-chat-frontend)
 
-Thanks to the teachers and experts of **Netology** – **Oleg Bulygin** (Python) and **Ivan Yazykov** (TypeScript, React) for their contribution to my professional development as a full‑stack developer.
+Thanks to the teachers and experts of **Netology** – **Oleg Bulygin** (Python) and **Ivan Yazykov** (TypeScript, React) for their contribution to my professional development as a fullstack developer.
