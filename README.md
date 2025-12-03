@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&lines=Hi+everyone!++I%E2%80%99m+Nina+Yurchenko+;Fullstack-developer+Ui/UX designer+from+Moscow" alt="Typing SVG" /></a>
 </div>
 
-
 ==========================================
 
 I’ve just finished studying all the modules in my Netology full‑stack program.  
