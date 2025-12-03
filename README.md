@@ -115,4 +115,4 @@ Design and create user‑friendly, modern interfaces and web applications – fr
 * [Corporate messenger “ECHOROOM Chat”](https://nmyurchenko-max.github.io/ws-chat-frontend/),  
   repo: [ws-chat-frontend](https://github.com/NMYurchenko-max/ws-chat-frontend)
 
-Thanks to the teachers and experts of **Netology** – **Oleg Bulygin** (Python) and **Ivan Yazykov** (TypeScript, React) for their contribution to my professional development as a fullstack developer.
+Thanks to the teachers and experts of **Netology** – **Oleg Bulygin** (Python), **Ivan Yazykov** (TypeScript, React), and **Denis Mokrinsky** (No-code) for their contribution to my professional development as a fullstack developer.
